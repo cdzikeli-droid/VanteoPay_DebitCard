@@ -1,5 +1,3 @@
-# VanteoPay_DebitCard
-Repository for Vanteo Pay Debit Card Module
 # VanteoConnect Debit Card Product Management
 
 This repository contains the product management documentation for the **VanteoConnect Debit Card Program**.

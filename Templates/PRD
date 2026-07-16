@@ -1,1 +1,185 @@
+# VanteoPay Product Requirements Document (PRD)
+
+## Document Control
+
+| Field              | Value |
+| ------------------ | ----- |
+| **Feature ID**     | DBT01 |
+| **Feature Name**   |       |
+| **Product Area**   |       |
+| **Target Release** |       |
+| **Author**         |       |
+| **Date**           |       |
+| **Version**        |       |
+
+### Change Log
+
+| Version | Date | Author | Summary |
+| ------- | ---- | ------ | ------- |
+|         |      |        |         |
+
+---
+
+# 1. Overview
+
+## Summary
+
+Provide a brief summary of the feature and the business problem it solves.
+
+### In Scope
+
+| Area | Description |
+| ---- | ----------- |
+|      |             |
+
+### Out of Scope
+
+| Area | Description |
+| ---- | ----------- |
+|      |             |
+
+---
+
+# 2. Use Case
+
+Describe the primary user scenario this feature supports.
+
+### Key Takeaways
+
+| Insight | Product Impact |
+| ------- | -------------- |
+|         |                |
+
+---
+
+# 3. Assumptions
+
+* Primary user(s)
+* Secondary user(s)
+* Business assumptions
+* Technical assumptions
+* Dependencies
+
+---
+
+# 4. UI Screen Inventory
+
+| UI ID      | Screen Name | Purpose | Entry Point |
+| ---------- | ----------- | ------- | ----------- |
+| DBT01-UI01 |             |         |             |
+| DBT01-UI02 |             |         |             |
+
+---
+
+# 5. User Flow
+
+## Primary Flow
+
+| Step | User Action | System Response |
+| ---- | ----------- | --------------- |
+| 1    |             |                 |
+| 2    |             |                 |
+
+### Alternate Flows
+
+Document edit, retry, cancel, timeout, and exception paths.
+
+---
+
+# 6. Functional Requirements
+
+## Feature Area: DBT01-FEA01 — [Feature Area Name]
+
+| Requirement ID | Requirement | Acceptance Criteria | Priority |
+| -------------- | ----------- | ------------------- | -------- |
+| DBT01-FR01     |             |                     | High     |
+| DBT01-FR02     |             |                     | Medium   |
+
+---
+
+## Feature Area: DBT01-FEA02 — [Feature Area Name]
+
+| Requirement ID | Requirement | Acceptance Criteria | Priority |
+| -------------- | ----------- | ------------------- | -------- |
+| DBT01-FR03     |             |                     | High     |
+| DBT01-FR04     |             |                     | Medium   |
+
+---
+
+# 7. Non-Functional Requirements
+
+| Requirement ID | Requirement | Acceptance Criteria |
+| -------------- | ----------- | ------------------- |
+| DBT01-NFR01    |             |                     |
+| DBT01-NFR02    |             |                     |
+
+Examples:
+
+* Performance
+* Availability
+* Accessibility
+* Security
+* Compliance
+* Logging
+* Scalability
+
+---
+
+# 8. Data Model / Versioning
+
+Complete only if this feature introduces or modifies stored data.
+
+| Field / Object | Current State | New State | Notes |
+| -------------- | ------------- | --------- | ----- |
+|                |               |           |       |
+
+---
+
+# 9. Mobile App Navigation
+
+## Navigation Rules
+
+* Back navigation
+* Cancel behavior
+* Entry and exit points
+
+### Navigation Map
+
+*Add a simple navigation hierarchy or diagram.*
+
+---
+
+# 10. API Reference
+
+| API ID      | API Name | Method | Endpoint | Related FR ID | Trigger | Key Parameters | Notes |
+| ----------- | -------- | ------ | -------- | ------------- | ------- | -------------- | ----- |
+| DBT01-API01 |          | POST   |          | DBT01-FR01    |         |                |       |
+| DBT01-API02 |          | GET    |          | DBT01-FR02    |         |                |       |
+
+---
+
+# 11. Error States
+
+| Error ID    | Scenario | User Message | Recovery Action |
+| ----------- | -------- | ------------ | --------------- |
+| DBT01-ERR01 |          |              |                 |
+| DBT01-ERR02 |          |              |                 |
+
+---
+
+# 12. Open Questions
+
+| # | Question | Owner | Status |
+| - | -------- | ----- | ------ |
+| 1 |          |       | Open   |
+| 2 |          |       | Open   |
+
+---
+
+# 13. Appendix
+
+* Design links
+* API documentation
+* User research
+* Supporting references
 test

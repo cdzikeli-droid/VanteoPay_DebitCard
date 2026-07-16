@@ -1,15 +1,24 @@
-VanteoConnect Debit Card Product Management
-•	Welcome to the VanteoConnect Debit Card Product Management repository.
-•	This repository contains the product documentation used to plan, develop, and deliver features for the VanteoConnect Debit Card program.
-Repository Structure
-•	Templates/ – Standard templates for Product Requirements Documents (PRDs) and supporting documentation.
-•	Features/ – Feature-specific PRDs and related documents.
-•	Releases/ – Release notes and release-related documentation.
-Guiding Principles
-•	Create one PRD per feature.
-•	Keep implementation tracking separate from the PRD.
-•	Update PRDs only when feature scope changes.
-•	Use templates to ensure consistent documentation across the project.
-•	This repository is the primary source for product requirements and feature documentation throughout the product lifecycle.
+# VanteoConnect Debit Card Product Management
+
+This repository contains the product management documentation for the **VanteoConnect Debit Card Program**.
+
+## Purpose
+
+This repository serves as the single source of truth for product planning and feature documentation throughout the development lifecycle.
+
+## Repository Contents
+
+* **PRDs** – Product Requirements Documents for new features
+* **Feature Delivery Trackers** – Implementation progress, dependencies, and release status
+* **Research** – User research, competitive analysis, and discovery artifacts
+* **Design References** – UX documentation and design links
+* **Release Documentation** – Release notes, decisions, and supporting documentation
+
+## Documentation Principles
+
+* Each feature has a single PRD that defines the business problem, user experience, and functional requirements.
+* Implementation tracking is maintained separately from the PRD.
+* PRDs should only be updated when approved scope changes occur.
+* Supporting documentation should reference the associated feature whenever possible.
 
 
